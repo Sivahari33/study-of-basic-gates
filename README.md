@@ -1,3 +1,6 @@
+###NAME:SIVAHARIBALAN K
+
+### REG NO:212224220103
 ### study-of-basic-gates
 
 **AIM:** 
@@ -63,17 +66,18 @@ Y= A⊕B
 
 
 **PROGRAM**
+![prgm](https://github.com/user-attachments/assets/46ec5382-d57c-462f-a430-d5f3879220a7)
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
- 
 **Logic symbol & Truthtable**
+![WhatsApp Image 2025-03-19 at 09 00 30_b688d946](https://github.com/user-attachments/assets/cee31a72-2e37-4e83-a6a0-e3b4d28e51e8)
+
 
 **RTL realization Output:** 
+![de](https://github.com/user-attachments/assets/9eb9ce1f-1335-474a-a7d4-a0a6527d1d8d)
 
 **RTL**
+![dl](https://github.com/user-attachments/assets/1565eac2-c3b4-4bf2-9539-5bef01865ad7)
 
 **Result:**
-
+The truth table of logic gates in Quartus II is verified using Verilog programming.
 
